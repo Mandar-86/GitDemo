@@ -23,6 +23,13 @@ public class Demo1 {
 		c.accept("python2");
 		c.accept("C#2");
 		c.accept("Grid2");
+		
+		
+
+		c.accept("Selenium3");
+		c.accept("python3");
+		c.accept("C#3");
+		c.accept("Grid3");
 
 	}
 
