@@ -17,6 +17,12 @@ public class Demo1 {
 		c.accept("python");
 		c.accept("C#");
 		c.accept("Grid");
+		
+
+		c.accept("Selenium2");
+		c.accept("python2");
+		c.accept("C#2");
+		c.accept("Grid2");
 
 	}
 
