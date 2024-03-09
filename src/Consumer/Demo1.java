@@ -9,6 +9,8 @@ public class Demo1 {
 		Consumer<String> c=s->System.out.println(s); 
 		
 		c.accept("WELCOME");
+		c.accept("Java");
+		c.accept("Selenium");
 
 	}
 
