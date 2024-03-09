@@ -11,6 +11,12 @@ public class Demo1 {
 		c.accept("WELCOME");
 		c.accept("Java");
 		c.accept("Selenium");
+		
+		
+		c.accept("Selenium");
+		c.accept("python");
+		c.accept("C#");
+		c.accept("Grid");
 
 	}
 
